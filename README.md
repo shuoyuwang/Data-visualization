@@ -59,5 +59,5 @@
 (3) map_draw.py draws the map. Use the map function of the pyecharts library to draw the map.
 
 <img width="415" alt="image" src="https://github.com/shuoyuwang/Data-visualization/assets/59498813/db5b1bd0-dddb-4bfd-9c2c-23e44936767a">
-# Result
+
 
